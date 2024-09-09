@@ -46,4 +46,12 @@ This is a standard Owl project template. Follow these steps to set up and run th
    - Add new components in the `src/components/` directory
    - Update `webpack.config.js` for any build process changes
 
+
+8. **Additional Resources**
+   For more detailed information about Owl and its features, you can refer to the official Owl documentation:
+   [Owl Quick Start Guide](https://github.com/odoo/owl/blob/master/doc/learning/quick_start.md#overview)
+
+   This guide provides an overview of Owl's core concepts, component system, and how to get started with building applications using Owl.
+
+
 Happy coding with Owl!
